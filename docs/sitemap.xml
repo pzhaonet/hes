@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://pzhaonet.github.io/hes/about/</loc>
+    <lastmod>2020-06-01T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pzhaonet.github.io/hes/contact/</loc>
+    <lastmod>2020-06-01T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pzhaonet.github.io/hes/portfolio/aas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pzhaonet.github.io/hes/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pzhaonet.github.io/hes/portfolio/ea/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pzhaonet.github.io/hes/portfolio/fias/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pzhaonet.github.io/hes/portfolio/fs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pzhaonet.github.io/hes/portfolio/gc-ms/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pzhaonet.github.io/hes/portfolio/gc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pzhaonet.github.io/hes/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pzhaonet.github.io/hes/portfolio/icp-ms/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pzhaonet.github.io/hes/portfolio/ic/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pzhaonet.github.io/hes/portfolio/lc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pzhaonet.github.io/hes/portfolio/mpr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pzhaonet.github.io/hes/portfolio/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pzhaonet.github.io/hes/portfolio/toctn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pzhaonet.github.io/hes/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pzhaonet.github.io/hes/portfolio/uv-vis/</loc>
+  </url>
+  
+</urlset>

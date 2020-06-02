@@ -1,0 +1,14 @@
+---
+image: img/portfolio/IC.jpg
+title: Ion chromatograph
+weight: 0
+---
+
+离子色谱
+
+<!--more-->
+
+![](../../img/portfolio/IC.jpg)
+
+主要用于极性化合物的分析，包括金属阳离子，铵离子，卤素阴离子以及酸根阴离子等无机化合物。也可与ICPMS联用进行元素形态分析。我系目前仅有阴离子分析柱。
+Mainly used for the analyzing of polar compound with metal ions, ammonium ion, halogen anion or acid anion. It could also be used in elemental speciation analysis while connected with ICPMS. We only have anion analysis column  in our department.
