@@ -41,6 +41,10 @@ publishDir = "docs"
   home = true
 
   [[params.navlinks]]
+  name = "PI & Rooms"
+  url = "tags/"
+
+  [[params.navlinks]]
   name = "About"
   url = "about/"
 
