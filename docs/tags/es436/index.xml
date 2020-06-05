@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ES436 on HES Gallery</title>
+    <link>https://pzhaonet.github.io/hes/tags/es436/</link>
+    <description>Recent content in ES436 on HES Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://pzhaonet.github.io/hes/tags/es436/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BOD analyzer</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/bod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/bod/</guid>
+      <description>&lt;p&gt;BOD 测定仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>COD analyzer</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/cod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/cod/</guid>
+      <description>&lt;p&gt;COD测定仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Elemental analyzer</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/ea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/ea/</guid>
+      <description>&lt;p&gt;元素分析仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flow injection analysis system</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/fias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/fias/</guid>
+      <description>&lt;p&gt;流动分析仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>sonicator</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/sonicator-e120h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/sonicator-e120h/</guid>
+      <description>&lt;p&gt;超声波清洗机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TOC/TN analyzer</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/toctn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/toctn/</guid>
+      <description>&lt;p&gt;TOC/TN检测器元素分析仪&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

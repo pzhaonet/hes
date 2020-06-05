@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ES431B on HES Gallery</title>
+    <link>https://pzhaonet.github.io/hes/tags/es431b/</link>
+    <description>Recent content in ES431B on HES Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://pzhaonet.github.io/hes/tags/es431b/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Centrifuge</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/sigma-centrifuge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/sigma-centrifuge/</guid>
+      <description>&lt;p&gt;离心机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Electrophoresis</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/electrophoresis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/electrophoresis/</guid>
+      <description>&lt;p&gt;电泳仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>fast-prep instrument</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/fastprep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/fastprep/</guid>
+      <description>&lt;p&gt;样品快速制备仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>gradient PCR</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/pcr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/pcr/</guid>
+      <description>&lt;p&gt;梯度PCR仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ultralow temperature freezer</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/ultralow-fridge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/ultralow-fridge/</guid>
+      <description>&lt;p&gt;超低温冰箱&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>vortex mixer</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/vertex-mixer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/vertex-mixer/</guid>
+      <description>&lt;p&gt;混匀器&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

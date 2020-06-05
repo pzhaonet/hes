@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ESB28 on HES Gallery</title>
+    <link>https://pzhaonet.github.io/hes/tags/esb28/</link>
+    <description>Recent content in ESB28 on HES Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://pzhaonet.github.io/hes/tags/esb28/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>manifold freezer dryer 8L</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/freezer-dryer-8l-zl-105/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/freezer-dryer-8l-zl-105/</guid>
+      <description>&lt;p&gt;台式冻干机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>manifold freezer dryer 9L</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/freezer-dryer-9el-00x/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/freezer-dryer-9el-00x/</guid>
+      <description>&lt;p&gt;台式冻干机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ortec Gamma Spectrometer</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/ortec-gamma-spectrometer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/ortec-gamma-spectrometer/</guid>
+      <description>&lt;p&gt;伽玛谱仪&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

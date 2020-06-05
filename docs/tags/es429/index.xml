@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ES429 on HES Gallery</title>
+    <link>https://pzhaonet.github.io/hes/tags/es429/</link>
+    <description>Recent content in ES429 on HES Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://pzhaonet.github.io/hes/tags/es429/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Heating plate</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/heating-plate-2200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/heating-plate-2200/</guid>
+      <description>&lt;p&gt;加热板2200&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Portable turbidimeter</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/portable-turbidimeter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/portable-turbidimeter/</guid>
+      <description>&lt;p&gt;便携式浊度仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Super constant temperature water tank</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/water-bath-syc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/water-bath-syc/</guid>
+      <description>&lt;p&gt;超级恒温水槽SYC&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ultraviolet spectrophotometer</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/uv-vis-l6s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/uv-vis-l6s/</guid>
+      <description>&lt;p&gt;紫外分光光度计L6S&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

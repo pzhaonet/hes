@@ -51,4 +51,4 @@ publishDir = "docs"
   [params.social]
   email         = "pzhao@pzhao.net"
   github        = "https://github.com/pzhaonet/hes"
-  home           = "https://www.xjtlu.edu.cn/en/departments/academic-departments/health-and-environmental-sciences"
+  home          = "https://www.xjtlu.edu.cn/en/departments/academic-departments/health-and-environmental-sciences"

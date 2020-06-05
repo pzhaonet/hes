@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ES212W on HES Gallery</title>
+    <link>https://pzhaonet.github.io/hes/tags/es212w/</link>
+    <description>Recent content in ES212W on HES Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://pzhaonet.github.io/hes/tags/es212w/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dry pump</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/rocker-300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/rocker-300/</guid>
+      <description>&lt;p&gt;无油式真空泵&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>magnetic stirrer</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/magnetic-stirrer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/magnetic-stirrer/</guid>
+      <description>&lt;p&gt;加热磁力搅拌器&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Oven 53L</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/binder-oven-53l/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/binder-oven-53l/</guid>
+      <description>&lt;p&gt;烘箱&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

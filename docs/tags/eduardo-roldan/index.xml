@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eduardo Roldan on HES Gallery</title>
+    <link>https://pzhaonet.github.io/hes/tags/eduardo-roldan/</link>
+    <description>Recent content in Eduardo Roldan on HES Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://pzhaonet.github.io/hes/tags/eduardo-roldan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Camera</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/camera-g15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/camera-g15/</guid>
+      <description>&lt;p&gt;照相机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MF PRO hand-held terminal</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/mf-pro-hand-held-terminal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/mf-pro-hand-held-terminal/</guid>
+      <description>&lt;p&gt;MF PRO 手持终端&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Soil sampler ETC-300A</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/soil-sampler-etc-300a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/soil-sampler-etc-300a/</guid>
+      <description>&lt;p&gt;土壤采样器 Auger set ETC300A&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ES431A on HES Gallery</title>
+    <link>https://pzhaonet.github.io/hes/tags/es431a/</link>
+    <description>Recent content in ES431A on HES Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://pzhaonet.github.io/hes/tags/es431a/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>autoclave</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/autoclave-alp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/autoclave-alp/</guid>
+      <description>&lt;p&gt;立式灭菌器&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>autoclave</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/autoclave-sn310c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/autoclave-sn310c/</guid>
+      <description>&lt;p&gt;高压蒸汽灭菌釜&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>clean bench</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/cleanbench/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/cleanbench/</guid>
+      <description>&lt;p&gt;垂直流超净工作台&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>freezer shaker</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/shaker-shke8000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/shaker-shke8000/</guid>
+      <description>&lt;p&gt;恒温冷冻摇床&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>glovebox</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/glovebox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/glovebox/</guid>
+      <description>&lt;p&gt;手套箱&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>incubator</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/incubator-yiheng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/incubator-yiheng/</guid>
+      <description>&lt;p&gt;电热恒温培养箱&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

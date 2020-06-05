@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ES429B on HES Gallery</title>
+    <link>https://pzhaonet.github.io/hes/tags/es429b/</link>
+    <description>Recent content in ES429B on HES Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://pzhaonet.github.io/hes/tags/es429b/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Atomic Absorption Spectroscopy</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/aas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/aas/</guid>
+      <description>&lt;p&gt;原子吸收光谱仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Centrifuge</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/centrifuge-backman-xpi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/centrifuge-backman-xpi/</guid>
+      <description>&lt;p&gt;高效离心机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Particle analyzer</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/pa-bettersize-2000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/pa-bettersize-2000/</guid>
+      <description>&lt;p&gt;粒度分析仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Particle analyzer</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/pa-bt-2900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/pa-bt-2900/</guid>
+      <description>&lt;p&gt;颗粒分析仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>rotary evaporation apparatus suit</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/rotary-evaporater-re2000a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/rotary-evaporater-re2000a/</guid>
+      <description>&lt;p&gt;旋转蒸发仪套装RE-2000A&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Scanning Electrochemical  Microscope system</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/secm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/secm/</guid>
+      <description>&lt;p&gt;电化学综合测试仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Water fuel oxyhydrogen machine</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/oxyhydrogen-machine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/oxyhydrogen-machine/</guid>
+      <description>&lt;p&gt;水燃料氢氧机&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
