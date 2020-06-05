@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/electrophoresis.jpg"
-title: "Electrophoresis"
+image: img/portfolio/electrophoresis.jpg
+title: Electrophoresis
 weight: 0
 tags: [regular, ES431B, Yili Cheng]
 ---
@@ -9,7 +9,7 @@ tags: [regular, ES431B, Yili Cheng]
 
 <!--more-->
 
-![]("../../img/portfolio/electrophoresis.jpg")
+![](../../img/portfolio/electrophoresis.jpg)
 
 - PI: Yili Cheng
 - Location: ES431B

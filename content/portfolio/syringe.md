@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/syringe.jpg"
-title: "syringe"
+image: img/portfolio/syringe.jpg
+title: syringe
 weight: 0
 tags: [regular, ES431, NA]
 ---
@@ -9,7 +9,7 @@ tags: [regular, ES431, NA]
 
 <!--more-->
 
-![]("../../img/portfolio/syringe.jpg")
+![](../../img/portfolio/syringe.jpg)
 
 NA
 - Location: ES431

@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/PCR.jpg"
-title: "gradient PCR"
+image: img/portfolio/PCR.jpg
+title: gradient PCR
 weight: 0
 tags: [regular, ES431B, Yili Cheng]
 ---
@@ -9,7 +9,7 @@ tags: [regular, ES431B, Yili Cheng]
 
 <!--more-->
 
-![]("../../img/portfolio/PCR.jpg")
+![](../../img/portfolio/PCR.jpg)
 
 - PI: Yili Cheng
 - Location: ES431B

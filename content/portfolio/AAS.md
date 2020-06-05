@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/AAS.jpg"
-title: "Atomic Absorption Spectroscopy"
+image: img/portfolio/AAS.jpg
+title: Atomic Absorption Spectroscopy
 weight: 0
 tags: [Major, ES429B, Xiao Zhou]
 ---
@@ -9,7 +9,7 @@ tags: [Major, ES429B, Xiao Zhou]
 
 <!--more-->
 
-![]("../../img/portfolio/AAS.jpg")
+![](../../img/portfolio/AAS.jpg)
 
 - PI: Xiao Zhou
 - Location: ES429B

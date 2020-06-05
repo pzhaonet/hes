@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/EA.jpg"
-title: "Elemental analyzer"
+image: img/portfolio/EA.jpg
+title: Elemental analyzer
 weight: 0
 tags: [Major, ES436, Yili Cheng]
 ---
@@ -9,7 +9,7 @@ tags: [Major, ES436, Yili Cheng]
 
 <!--more-->
 
-![]("../../img/portfolio/EA.jpg")
+![](../../img/portfolio/EA.jpg)
 
 - PI: Yili Cheng
 - Location: ES436
@@ -21,4 +21,4 @@ It is used for the precise determination of C, H, N and S. Samples will be fully
 
 用于样品中碳，氢，氮，硫含量的测定。样品在高温完全燃烧，经进一步还原，通过色谱柱分离后由热导检测器检测。
 
-![]("../../img/portfolio/EA manual.jpg")
+![](../../img/portfolio/EA_manual.jpg)

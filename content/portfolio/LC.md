@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/LC.jpg"
-title: "Liquid chromatograph"
+image: img/portfolio/LC.jpg
+title: Liquid chromatograph
 weight: 0
 tags: [Major, ES440, Yili Cheng]
 ---
@@ -9,7 +9,7 @@ tags: [Major, ES440, Yili Cheng]
 
 <!--more-->
 
-![]("../../img/portfolio/LC.jpg")
+![](../../img/portfolio/LC.jpg)
 
 - PI: Yili Cheng
 - Location: ES440

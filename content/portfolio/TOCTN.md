@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/TOCTN.jpg"
-title: "TOC/TN analyzer"
+image: img/portfolio/TOCTN.jpg
+title: TOC/TN analyzer
 weight: 0
 tags: [Major, ES436, Yili Cheng]
 ---
@@ -9,7 +9,7 @@ TOC/TN检测器元素分析仪
 
 <!--more-->
 
-![]("../../img/portfolio/TOCTN.jpg")
+![](../../img/portfolio/TOCTN.jpg)
 
 - PI: Yili Cheng
 - Location: ES436

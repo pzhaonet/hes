@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/SECM.jpg"
-title: "Scanning Electrochemical  Microscope system"
+image: img/portfolio/SECM.jpg
+title: Scanning Electrochemical  Microscope system
 weight: 0
 tags: [Major, ES429B, Xiao Zhou]
 ---
@@ -9,7 +9,7 @@ tags: [Major, ES429B, Xiao Zhou]
 
 <!--more-->
 
-![]("../../img/portfolio/SECM.jpg")
+![](../../img/portfolio/SECM.jpg)
 
 - PI: Xiao Zhou
 - Location: ES429B

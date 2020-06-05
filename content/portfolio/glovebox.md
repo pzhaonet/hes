@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/glovebox.jpg"
-title: "glovebox"
+image: img/portfolio/glovebox.jpg
+title: glovebox
 weight: 0
 tags: [regular, ES431A, Yili Cheng]
 ---
@@ -9,7 +9,7 @@ tags: [regular, ES431A, Yili Cheng]
 
 <!--more-->
 
-![]("../../img/portfolio/glovebox.jpg")
+![](../../img/portfolio/glovebox.jpg)
 
 - PI: Yili Cheng
 - Location: ES431A

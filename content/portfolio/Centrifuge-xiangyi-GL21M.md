@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/Centrifuge-xiangyi-GL21M.jpg"
-title: "Centrifuge"
+image: img/portfolio/Centrifuge-xiangyi-GL21M.jpg
+title: Centrifuge
 weight: 0
 tags: [regular, ESB32, Liangping Long]
 ---
@@ -9,7 +9,7 @@ tags: [regular, ESB32, Liangping Long]
 
 <!--more-->
 
-![]("../../img/portfolio/Centrifuge-xiangyi-GL21M.jpg")
+![](../../img/portfolio/Centrifuge-xiangyi-GL21M.jpg)
 
 - PI: Liangping Long
 - Location: ESB32

@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/Centrifuge-xiangyi-L530.jpg"
-title: "Centrifuge"
+image: img/portfolio/Centrifuge-xiangyi-L530.jpg
+title: Centrifuge
 weight: 0
 tags: [regular, ES212M, Liangping Long]
 ---
@@ -9,7 +9,7 @@ tags: [regular, ES212M, Liangping Long]
 
 <!--more-->
 
-![]("../../img/portfolio/Centrifuge-xiangyi-L530.jpg")
+![](../../img/portfolio/Centrifuge-xiangyi-L530.jpg)
 
 - PI: Liangping Long
 - Location: ES212M

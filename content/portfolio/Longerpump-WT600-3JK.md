@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/Longerpump-WT600-3JK.jpg"
-title: "Peristaltic pump"
+image: img/portfolio/Longerpump-WT600-3JK.jpg
+title: Peristaltic pump
 weight: 0
 tags: [regular, ESB32, Liangping Long]
 ---
@@ -9,7 +9,7 @@ tags: [regular, ESB32, Liangping Long]
 
 <!--more-->
 
-![]("../../img/portfolio/Longerpump-WT600-3JK.jpg")
+![](../../img/portfolio/Longerpump-WT600-3JK.jpg)
 
 - PI: Liangping Long
 - Location: ESB32

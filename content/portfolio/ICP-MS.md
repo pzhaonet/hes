@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/ICP-MS.jpg"
-title: "Inductively Coupled Plasma Mass Spectrometry"
+image: img/portfolio/ICP-MS.jpg
+title: Inductively Coupled Plasma Mass Spectrometry
 weight: 0
 tags: [Major, ES436B, Yili Cheng]
 ---
@@ -9,7 +9,7 @@ tags: [Major, ES436B, Yili Cheng]
 
 <!--more-->
 
-![]("../../img/portfolio/ICP-MS.jpg")
+![](../../img/portfolio/ICP-MS.jpg)
 
 - PI: Yili Cheng
 - Location: ES436B

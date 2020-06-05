@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/microbalance.jpg"
-title: "microbalance"
+image: img/portfolio/microbalance.jpg
+title: microbalance
 weight: 0
 tags: [regular, ES438A, Yili Cheng]
 ---
@@ -9,7 +9,7 @@ tags: [regular, ES438A, Yili Cheng]
 
 <!--more-->
 
-![]("../../img/portfolio/microbalance.jpg")
+![](../../img/portfolio/microbalance.jpg)
 
 - PI: Yili Cheng
 - Location: ES438A

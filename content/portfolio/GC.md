@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/GC.jpg"
-title: "Gas Chromatograph"
+image: img/portfolio/GC.jpg
+title: Gas Chromatograph
 weight: 0
 tags: [Major, ES440, Yili Cheng]
 ---
@@ -9,7 +9,7 @@ tags: [Major, ES440, Yili Cheng]
 
 <!--more-->
 
-![]("../../img/portfolio/GC.jpg")
+![](../../img/portfolio/GC.jpg)
 
 - PI: Yili Cheng
 - Location: ES440

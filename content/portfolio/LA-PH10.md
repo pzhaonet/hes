@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/LA-PH10.jpg"
-title: "PH meter"
+image: img/portfolio/LA-PH10.jpg
+title: PH meter
 weight: 0
 tags: [regular, ES431, Xiao Zhou]
 ---
@@ -9,7 +9,7 @@ PH计
 
 <!--more-->
 
-![]("../../img/portfolio/LA-PH10.jpg")
+![](../../img/portfolio/LA-PH10.jpg)
 
 - PI: Xiao Zhou
 - Location: ES431

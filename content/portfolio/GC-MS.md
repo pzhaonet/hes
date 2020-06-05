@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/GC-MS.jpg"
-title: "Gas Chromatography-Mass Spectrometer"
+image: img/portfolio/GC-MS.jpg
+title: Gas Chromatography-Mass Spectrometer
 weight: 0
 tags: [Major, ES440, Yili Cheng]
 ---
@@ -9,7 +9,7 @@ tags: [Major, ES440, Yili Cheng]
 
 <!--more-->
 
-![]("../../img/portfolio/GC-MS.jpg")
+![](../../img/portfolio/GC-MS.jpg)
 
 - PI: Yili Cheng
 - Location: ES440

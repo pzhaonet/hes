@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/autoclave-SN310C.jpg"
-title: "autoclave"
+image: img/portfolio/autoclave-SN310C.jpg
+title: autoclave
 weight: 0
 tags: [regular, ES431A, Yili Cheng]
 ---
@@ -9,7 +9,7 @@ tags: [regular, ES431A, Yili Cheng]
 
 <!--more-->
 
-![]("../../img/portfolio/autoclave-SN310C.jpg")
+![](../../img/portfolio/autoclave-SN310C.jpg)
 
 - PI: Yili Cheng
 - Location: ES431A
@@ -21,4 +21,4 @@ NA
 
 NA
 
-![]("../../img/portfolio/autoclave-SN310C manual.jpg")
+![](../../img/portfolio/autoclave-SN310C_manual.jpg)

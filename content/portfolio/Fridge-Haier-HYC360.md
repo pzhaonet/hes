@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/Fridge-Haier-HYC360.jpg"
-title: "freezer"
+image: img/portfolio/Fridge-Haier-HYC360.jpg
+title: freezer
 weight: 0
 tags: [regular, ES212E, Liangping Long]
 ---
@@ -9,7 +9,7 @@ tags: [regular, ES212E, Liangping Long]
 
 <!--more-->
 
-![]("../../img/portfolio/Fridge-Haier-HYC360.jpg")
+![](../../img/portfolio/Fridge-Haier-HYC360.jpg)
 
 - PI: Liangping Long
 - Location: ES212E

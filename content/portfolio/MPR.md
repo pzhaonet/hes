@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/MPR.jpg"
-title: "Microplate reader"
+image: img/portfolio/MPR.jpg
+title: Microplate reader
 weight: 0
 tags: [Major, ES440, Yili Cheng]
 ---
@@ -9,7 +9,7 @@ tags: [Major, ES440, Yili Cheng]
 
 <!--more-->
 
-![]("../../img/portfolio/MPR.jpg")
+![](../../img/portfolio/MPR.jpg)
 
 - PI: Yili Cheng
 - Location: ES440

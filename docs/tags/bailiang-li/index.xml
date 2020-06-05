@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>Anemometer</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/anemometer_6030/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/anemometer_6030/</guid>
+      <description>&lt;p&gt;风速仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>GoPro Camera</title>
       <link>https://pzhaonet.github.io/hes/portfolio/camero-hero3&#43;/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -29,11 +38,29 @@
     </item>
     
     <item>
+      <title>GoPro Camera</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/camero_hero3&#43;/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/camero_hero3&#43;/</guid>
+      <description>&lt;p&gt;GoPro相机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Gopro Camera</title>
       <link>https://pzhaonet.github.io/hes/portfolio/camero-hero4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/camero-hero4/</guid>
+      <description>&lt;p&gt;GoPro 相机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gopro Camera</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/camero_hero4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/camero_hero4/</guid>
       <description>&lt;p&gt;GoPro 相机&lt;/p&gt;</description>
     </item>
     
@@ -52,6 +79,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/pa-bt-2900/</guid>
+      <description>&lt;p&gt;颗粒分析仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Particle analyzer</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/pa_bettersize_2000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/pa_bettersize_2000/</guid>
+      <description>&lt;p&gt;粒度分析仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Particle analyzer</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/pa_bt-2900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/pa_bt-2900/</guid>
       <description>&lt;p&gt;颗粒分析仪&lt;/p&gt;</description>
     </item>
     

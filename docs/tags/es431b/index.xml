@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>Centrifuge</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/sigma_centrifuge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/sigma_centrifuge/</guid>
+      <description>&lt;p&gt;离心机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Electrophoresis</title>
       <link>https://pzhaonet.github.io/hes/portfolio/electrophoresis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -56,11 +65,29 @@
     </item>
     
     <item>
+      <title>ultralow temperature freezer</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/ultralow_fridge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/ultralow_fridge/</guid>
+      <description>&lt;p&gt;超低温冰箱&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>vortex mixer</title>
       <link>https://pzhaonet.github.io/hes/portfolio/vertex-mixer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/vertex-mixer/</guid>
+      <description>&lt;p&gt;混匀器&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>vortex mixer</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/vertex_mixer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/vertex_mixer/</guid>
       <description>&lt;p&gt;混匀器&lt;/p&gt;</description>
     </item>
     

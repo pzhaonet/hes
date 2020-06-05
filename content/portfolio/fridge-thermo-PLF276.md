@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/fridge-thermo-PLF276.jpg"
-title: "freezer"
+image: img/portfolio/fridge-thermo-PLF276.jpg
+title: freezer
 weight: 0
 tags: [regular, ES431, Yili Cheng]
 ---
@@ -9,7 +9,7 @@ tags: [regular, ES431, Yili Cheng]
 
 <!--more-->
 
-![]("../../img/portfolio/fridge-thermo-PLF276.jpg")
+![](../../img/portfolio/fridge-thermo-PLF276.jpg)
 
 - PI: Yili Cheng
 - Location: ES431

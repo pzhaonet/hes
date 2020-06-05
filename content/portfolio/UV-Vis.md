@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/UV-Vis.jpg"
-title: "UV-Visible spectroscopy"
+image: img/portfolio/UV-Vis.jpg
+title: UV-Visible spectroscopy
 weight: 0
 tags: [Major, ES440, Yili Cheng]
 ---
@@ -9,7 +9,7 @@ tags: [Major, ES440, Yili Cheng]
 
 <!--more-->
 
-![]("../../img/portfolio/UV-Vis.jpg")
+![](../../img/portfolio/UV-Vis.jpg)
 
 - PI: Yili Cheng
 - Location: ES440
@@ -21,4 +21,4 @@ UV-Visible spectroscopy uses the absorption of visible light and ultraviolet by 
 
 利用物质的分子或离子对紫外和可见光的吸收所产生的吸收光谱及其强弱对物质的组成，含量和结构进行分析，测定和判断。
 
-![]("../../img/portfolio/UV-Vis manual.jpg")
+![](../../img/portfolio/UV-Vis_manual.jpg)

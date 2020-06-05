@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/fridge-thermo-PLR1006.jpg"
-title: "freezer"
+image: img/portfolio/fridge-thermo-PLR1006.jpg
+title: freezer
 weight: 0
 tags: [regular, ES214, Liangping Long]
 ---
@@ -9,7 +9,7 @@ tags: [regular, ES214, Liangping Long]
 
 <!--more-->
 
-![]("../../img/portfolio/fridge-thermo-PLR1006.jpg")
+![](../../img/portfolio/fridge-thermo-PLR1006.jpg)
 
 - PI: Liangping Long
 - Location: ES214

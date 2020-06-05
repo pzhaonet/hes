@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/camera-G15.jpg"
-title: "Camera"
+image: img/portfolio/camera-G15.jpg
+title: Camera
 weight: 0
 tags: [regular, ES325, Eduardo Roldan]
 ---
@@ -9,7 +9,7 @@ tags: [regular, ES325, Eduardo Roldan]
 
 <!--more-->
 
-![]("../../img/portfolio/camera-G15.jpg")
+![](../../img/portfolio/camera-G15.jpg)
 
 - PI: Eduardo Roldan
 - Location: ES325

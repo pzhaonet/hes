@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/IC.jpg"
-title: "Ion chromatograph"
+image: img/portfolio/IC.jpg
+title: Ion chromatograph
 weight: 0
 tags: [Major, ES436B, Yili Cheng]
 ---
@@ -9,7 +9,7 @@ tags: [Major, ES436B, Yili Cheng]
 
 <!--more-->
 
-![]("../../img/portfolio/IC.jpg")
+![](../../img/portfolio/IC.jpg)
 
 - PI: Yili Cheng
 - Location: ES436B

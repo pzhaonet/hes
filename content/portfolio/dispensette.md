@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/dispensette.jpg"
-title: "1-10ML Liquid bottle points"
+image: img/portfolio/dispensette.jpg
+title: 1-10ML Liquid bottle points
 weight: 0
 tags: [regular, ES429A, Xiao Zhou]
 ---
@@ -9,7 +9,7 @@ tags: [regular, ES429A, Xiao Zhou]
 
 <!--more-->
 
-![]("../../img/portfolio/dispensette.jpg")
+![](../../img/portfolio/dispensette.jpg)
 
 - PI: Xiao Zhou
 - Location: ES429A

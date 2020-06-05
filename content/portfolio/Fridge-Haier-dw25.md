@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/Fridge-Haier-dw25.jpg"
-title: "freezer"
+image: img/portfolio/Fridge-Haier-dw25.jpg
+title: freezer
 weight: 0
 tags: [regular, ES431, Yili Cheng]
 ---
@@ -9,7 +9,7 @@ tags: [regular, ES431, Yili Cheng]
 
 <!--more-->
 
-![]("../../img/portfolio/Fridge-Haier-dw25.jpg")
+![](../../img/portfolio/Fridge-Haier-dw25.jpg)
 
 - PI: Yili Cheng
 - Location: ES431

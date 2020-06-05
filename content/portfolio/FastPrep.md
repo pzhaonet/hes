@@ -1,6 +1,6 @@
 ---
-image: "img/portfolio/FastPrep.jpg"
-title: "fast-prep instrument"
+image: img/portfolio/FastPrep.jpg
+title: fast-prep instrument
 weight: 0
 tags: [regular, ES431B, Yili Cheng]
 ---
@@ -9,7 +9,7 @@ tags: [regular, ES431B, Yili Cheng]
 
 <!--more-->
 
-![]("../../img/portfolio/FastPrep.jpg")
+![](../../img/portfolio/FastPrep.jpg)
 
 - PI: Yili Cheng
 - Location: ES431B
@@ -21,4 +21,4 @@ NA
 
 NA
 
-![]("../../img/portfolio/fastprep manual.jpg")
+![](../../img/portfolio/fastprep_manual.jpg)
