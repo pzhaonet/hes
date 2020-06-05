@@ -2,7 +2,7 @@
 image: img/portfolio/AAS.jpg
 title: AAS
 weight: 0
-tags: tag1
+tags: [tag1, tag2]
 ---
 
 原子吸收光谱仪
