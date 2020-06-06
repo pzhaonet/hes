@@ -43,7 +43,6 @@ publishDir = "docs"
   [[params.navlinks]]
   name = "Gallery"
   url = "portfolio/"
-  home = true
 
   [[params.navlinks]]
   name = "About"
