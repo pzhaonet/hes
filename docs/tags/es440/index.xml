@@ -11,92 +11,74 @@
     
     
     <item>
-      <title>Fluorescence spectroscopy</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/fs/</link>
+      <title>Fluorescence spectroscopy (ID: 12)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/12/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/fs/</guid>
+      <guid>https://pzhaonet.github.io/hes/portfolio/12/</guid>
       <description>&lt;p&gt;荧光分光光度计&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Gas Chromatograph</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/gc/</link>
+      <title>Gas Chromatograph (ID: 16)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/16/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/gc/</guid>
+      <guid>https://pzhaonet.github.io/hes/portfolio/16/</guid>
       <description>&lt;p&gt;气相色谱&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Gas Chromatography-Mass Spectrometer</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/gc-ms/</link>
+      <title>Gas Chromatography-Mass Spectrometer (ID: 14)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/14/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/gc-ms/</guid>
+      <guid>https://pzhaonet.github.io/hes/portfolio/14/</guid>
       <description>&lt;p&gt;气相色谱质谱联用&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Hydrogen generator</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/hydrogen-generator/</link>
+      <title>Hydrogen generator (ID: 140)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/140/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/hydrogen-generator/</guid>
+      <guid>https://pzhaonet.github.io/hes/portfolio/140/</guid>
       <description>&lt;p&gt;氢气发生器&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Hydrogen generator</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/hydrogen_generator/</link>
+      <title>Liquid chromatograph (ID: 15)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/15/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/hydrogen_generator/</guid>
-      <description>&lt;p&gt;氢气发生器&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Liquid chromatograph</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/lc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/lc/</guid>
+      <guid>https://pzhaonet.github.io/hes/portfolio/15/</guid>
       <description>&lt;p&gt;液相色谱&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Microplate reader</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/mpr/</link>
+      <title>Microplate reader (ID: 11)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/11/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/mpr/</guid>
+      <guid>https://pzhaonet.github.io/hes/portfolio/11/</guid>
       <description>&lt;p&gt;酶标仪&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>SPE Workstation</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/spe-workstation/</link>
+      <title>SPE Workstation (ID: 17)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/17/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/spe-workstation/</guid>
+      <guid>https://pzhaonet.github.io/hes/portfolio/17/</guid>
       <description>&lt;p&gt;固相 萃取自动工作站&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>SPE Workstation</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/spe_workstation/</link>
+      <title>UV-Visible spectroscopy (ID: 13)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/13/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/spe_workstation/</guid>
-      <description>&lt;p&gt;固相 萃取自动工作站&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>UV-Visible spectroscopy</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/uv-vis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/uv-vis/</guid>
+      <guid>https://pzhaonet.github.io/hes/portfolio/13/</guid>
       <description>&lt;p&gt;紫外-可见分光光度计&lt;/p&gt;</description>
     </item>
     

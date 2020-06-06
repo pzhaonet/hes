@@ -11,83 +11,74 @@
     
     
     <item>
-      <title>Centrifuge</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/sigma-centrifuge/</link>
+      <title>Centrifuge (ID: 111)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/111/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/sigma-centrifuge/</guid>
+      <guid>https://pzhaonet.github.io/hes/portfolio/111/</guid>
       <description>&lt;p&gt;离心机&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Centrifuge</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/sigma_centrifuge/</link>
+      <title>Electrophoresis (ID: 104)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/104/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/sigma_centrifuge/</guid>
-      <description>&lt;p&gt;离心机&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Electrophoresis</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/electrophoresis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/electrophoresis/</guid>
+      <guid>https://pzhaonet.github.io/hes/portfolio/104/</guid>
       <description>&lt;p&gt;电泳仪&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>fast-prep instrument</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/fastprep/</link>
+      <title>fast-prep instrument (ID: 108)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/108/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/fastprep/</guid>
+      <guid>https://pzhaonet.github.io/hes/portfolio/108/</guid>
       <description>&lt;p&gt;样品快速制备仪&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>gradient PCR</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/pcr/</link>
+      <title>gradient PCR (ID: 105)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/105/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/pcr/</guid>
+      <guid>https://pzhaonet.github.io/hes/portfolio/105/</guid>
       <description>&lt;p&gt;梯度PCR仪&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>ultralow temperature freezer</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/ultralow-fridge/</link>
+      <title>LED photolysis device (ID: 106)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/106/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/ultralow-fridge/</guid>
+      <guid>https://pzhaonet.github.io/hes/portfolio/106/</guid>
+      <description>&lt;p&gt;光解仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ultralow temperature freezer (ID: 107)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/107/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/107/</guid>
       <description>&lt;p&gt;超低温冰箱&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>ultralow temperature freezer</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/ultralow_fridge/</link>
+      <title>vortex mixer (ID: 109)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/109/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/ultralow_fridge/</guid>
-      <description>&lt;p&gt;超低温冰箱&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>vortex mixer</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/vertex-mixer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/vertex-mixer/</guid>
+      <guid>https://pzhaonet.github.io/hes/portfolio/109/</guid>
       <description>&lt;p&gt;混匀器&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>vortex mixer</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/vertex_mixer/</link>
+      <title>vortex mixer (ID: 110)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/110/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/vertex_mixer/</guid>
+      <guid>https://pzhaonet.github.io/hes/portfolio/110/</guid>
       <description>&lt;p&gt;混匀器&lt;/p&gt;</description>
     </item>
     
