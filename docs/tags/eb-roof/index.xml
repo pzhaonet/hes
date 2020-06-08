@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>EB roof on HESLAB</title>
+    <title>Eb Roof on HESLAB</title>
     <link>https://pzhaonet.github.io/hes/tags/eb-roof/</link>
-    <description>Recent content in EB roof on HESLAB</description>
+    <description>Recent content in Eb Roof on HESLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy;HES</copyright>
     
 	<atom:link href="https://pzhaonet.github.io/hes/tags/eb-roof/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +17,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/1/</guid>
-      <description>&lt;p&gt;空气中PM2.5分析仪&lt;/p&gt;</description>
+      <description>&lt;p&gt;空气中PM2.5分析仪&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -25,7 +28,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/20/</guid>
-      <description>&lt;p&gt;USB 多功能采集仪&lt;/p&gt;</description>
+      <description>&lt;p&gt;USB 多功能采集仪&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

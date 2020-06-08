@@ -1,23 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ES214A on HESLAB</title>
+    <title>Es214a on HESLAB</title>
     <link>https://pzhaonet.github.io/hes/tags/es214a/</link>
-    <description>Recent content in ES214A on HESLAB</description>
+    <description>Recent content in Es214a on HESLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy;HES</copyright>
     
 	<atom:link href="https://pzhaonet.github.io/hes/tags/es214a/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>furance (ID: 43)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/43/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/43/</guid>
-      <description>&lt;p&gt;马弗炉&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>Oven (50-330°C) (ID: 42)</title>
@@ -25,7 +17,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/42/</guid>
-      <description>&lt;p&gt;烘箱&lt;/p&gt;</description>
+      <description>&lt;p&gt;烘箱&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -34,7 +28,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/44/</guid>
-      <description>&lt;p&gt;烘箱&lt;/p&gt;</description>
+      <description>&lt;p&gt;烘箱&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>furance (ID: 43)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/43/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/43/</guid>
+      <description>&lt;p&gt;马弗炉&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

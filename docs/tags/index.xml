@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HESLAB</title>
@@ -6,12 +6,13 @@
     <description>Recent content in Tags on HESLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy;HES</copyright>
     
 	<atom:link href="https://pzhaonet.github.io/hes/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>EB roof</title>
+      <title>Eb Roof</title>
       <link>https://pzhaonet.github.io/hes/tags/eb-roof/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -20,7 +21,7 @@
     </item>
     
     <item>
-      <title>ES 4th floor balcony</title>
+      <title>Es 4th Floor Balcony</title>
       <link>https://pzhaonet.github.io/hes/tags/es-4th-floor-balcony/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -29,7 +30,7 @@
     </item>
     
     <item>
-      <title>ES212A</title>
+      <title>Es212a</title>
       <link>https://pzhaonet.github.io/hes/tags/es212a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -38,7 +39,7 @@
     </item>
     
     <item>
-      <title>ES212B</title>
+      <title>Es212b</title>
       <link>https://pzhaonet.github.io/hes/tags/es212b/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -47,7 +48,7 @@
     </item>
     
     <item>
-      <title>ES212E</title>
+      <title>Es212e</title>
       <link>https://pzhaonet.github.io/hes/tags/es212e/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -56,7 +57,7 @@
     </item>
     
     <item>
-      <title>ES212M</title>
+      <title>Es212m</title>
       <link>https://pzhaonet.github.io/hes/tags/es212m/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -65,7 +66,7 @@
     </item>
     
     <item>
-      <title>ES212W</title>
+      <title>Es212w</title>
       <link>https://pzhaonet.github.io/hes/tags/es212w/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -74,7 +75,7 @@
     </item>
     
     <item>
-      <title>ES214</title>
+      <title>Es214</title>
       <link>https://pzhaonet.github.io/hes/tags/es214/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -83,7 +84,7 @@
     </item>
     
     <item>
-      <title>ES214A</title>
+      <title>Es214a</title>
       <link>https://pzhaonet.github.io/hes/tags/es214a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -92,7 +93,7 @@
     </item>
     
     <item>
-      <title>ES214C</title>
+      <title>Es214c</title>
       <link>https://pzhaonet.github.io/hes/tags/es214c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -101,7 +102,7 @@
     </item>
     
     <item>
-      <title>ES325</title>
+      <title>Es325</title>
       <link>https://pzhaonet.github.io/hes/tags/es325/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -110,7 +111,7 @@
     </item>
     
     <item>
-      <title>ES347</title>
+      <title>Es347</title>
       <link>https://pzhaonet.github.io/hes/tags/es347/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -119,7 +120,7 @@
     </item>
     
     <item>
-      <title>ES349</title>
+      <title>Es349</title>
       <link>https://pzhaonet.github.io/hes/tags/es349/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -128,7 +129,7 @@
     </item>
     
     <item>
-      <title>ES427</title>
+      <title>Es427</title>
       <link>https://pzhaonet.github.io/hes/tags/es427/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -137,7 +138,7 @@
     </item>
     
     <item>
-      <title>ES429</title>
+      <title>Es429</title>
       <link>https://pzhaonet.github.io/hes/tags/es429/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -146,7 +147,7 @@
     </item>
     
     <item>
-      <title>ES429A</title>
+      <title>Es429a</title>
       <link>https://pzhaonet.github.io/hes/tags/es429a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -155,7 +156,7 @@
     </item>
     
     <item>
-      <title>ES429B</title>
+      <title>Es429b</title>
       <link>https://pzhaonet.github.io/hes/tags/es429b/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -164,7 +165,7 @@
     </item>
     
     <item>
-      <title>ES431</title>
+      <title>Es431</title>
       <link>https://pzhaonet.github.io/hes/tags/es431/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -173,7 +174,7 @@
     </item>
     
     <item>
-      <title>ES431A</title>
+      <title>Es431a</title>
       <link>https://pzhaonet.github.io/hes/tags/es431a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -182,7 +183,7 @@
     </item>
     
     <item>
-      <title>ES431B</title>
+      <title>Es431b</title>
       <link>https://pzhaonet.github.io/hes/tags/es431b/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -191,7 +192,7 @@
     </item>
     
     <item>
-      <title>ES432</title>
+      <title>Es432</title>
       <link>https://pzhaonet.github.io/hes/tags/es432/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -200,7 +201,7 @@
     </item>
     
     <item>
-      <title>ES436</title>
+      <title>Es436</title>
       <link>https://pzhaonet.github.io/hes/tags/es436/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -209,7 +210,7 @@
     </item>
     
     <item>
-      <title>ES436B</title>
+      <title>Es436b</title>
       <link>https://pzhaonet.github.io/hes/tags/es436b/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -218,7 +219,7 @@
     </item>
     
     <item>
-      <title>ES438</title>
+      <title>Es438</title>
       <link>https://pzhaonet.github.io/hes/tags/es438/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -227,7 +228,7 @@
     </item>
     
     <item>
-      <title>ES438A</title>
+      <title>Es438a</title>
       <link>https://pzhaonet.github.io/hes/tags/es438a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -236,7 +237,7 @@
     </item>
     
     <item>
-      <title>ES440</title>
+      <title>Es440</title>
       <link>https://pzhaonet.github.io/hes/tags/es440/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -245,7 +246,7 @@
     </item>
     
     <item>
-      <title>ESB18</title>
+      <title>Esb18</title>
       <link>https://pzhaonet.github.io/hes/tags/esb18/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -254,7 +255,7 @@
     </item>
     
     <item>
-      <title>ESB28</title>
+      <title>Esb28</title>
       <link>https://pzhaonet.github.io/hes/tags/esb28/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -263,7 +264,7 @@
     </item>
     
     <item>
-      <title>ESB32</title>
+      <title>Esb32</title>
       <link>https://pzhaonet.github.io/hes/tags/esb32/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -272,7 +273,7 @@
     </item>
     
     <item>
-      <title>SA7</title>
+      <title>Sa7</title>
       <link>https://pzhaonet.github.io/hes/tags/sa7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

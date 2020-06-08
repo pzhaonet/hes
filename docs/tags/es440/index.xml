@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ES440 on HESLAB</title>
+    <title>Es440 on HESLAB</title>
     <link>https://pzhaonet.github.io/hes/tags/es440/</link>
-    <description>Recent content in ES440 on HESLAB</description>
+    <description>Recent content in Es440 on HESLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy;HES</copyright>
     
 	<atom:link href="https://pzhaonet.github.io/hes/tags/es440/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +17,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/12/</guid>
-      <description>&lt;p&gt;荧光分光光度计&lt;/p&gt;</description>
+      <description>&lt;p&gt;荧光分光光度计&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -25,7 +28,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/16/</guid>
-      <description>&lt;p&gt;气相色谱&lt;/p&gt;</description>
+      <description>&lt;p&gt;气相色谱&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -34,7 +39,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/14/</guid>
-      <description>&lt;p&gt;气相色谱质谱联用&lt;/p&gt;</description>
+      <description>&lt;p&gt;气相色谱质谱联用&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -43,7 +50,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/140/</guid>
-      <description>&lt;p&gt;氢气发生器&lt;/p&gt;</description>
+      <description>&lt;p&gt;氢气发生器&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -52,7 +61,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/15/</guid>
-      <description>&lt;p&gt;液相色谱&lt;/p&gt;</description>
+      <description>&lt;p&gt;液相色谱&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -61,7 +72,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/11/</guid>
-      <description>&lt;p&gt;酶标仪&lt;/p&gt;</description>
+      <description>&lt;p&gt;酶标仪&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -70,7 +83,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/17/</guid>
-      <description>&lt;p&gt;固相 萃取自动工作站&lt;/p&gt;</description>
+      <description>&lt;p&gt;固相 萃取自动工作站&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -79,7 +94,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/13/</guid>
-      <description>&lt;p&gt;紫外-可见分光光度计&lt;/p&gt;</description>
+      <description>&lt;p&gt;紫外-可见分光光度计&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

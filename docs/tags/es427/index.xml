@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ES427 on HESLAB</title>
+    <title>Es427 on HESLAB</title>
     <link>https://pzhaonet.github.io/hes/tags/es427/</link>
-    <description>Recent content in ES427 on HESLAB</description>
+    <description>Recent content in Es427 on HESLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy;HES</copyright>
     
 	<atom:link href="https://pzhaonet.github.io/hes/tags/es427/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +17,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/53/</guid>
-      <description>&lt;p&gt;马弗炉&lt;/p&gt;</description>
+      <description>&lt;p&gt;马弗炉&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -25,7 +28,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/54/</guid>
-      <description>&lt;p&gt;马弗炉&lt;/p&gt;</description>
+      <description>&lt;p&gt;马弗炉&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -34,7 +39,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/52/</guid>
-      <description>&lt;p&gt;显微镜&lt;/p&gt;</description>
+      <description>&lt;p&gt;显微镜&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
