@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Es431b on HESLAB</title>
+    <title>ES431B on HESLAB</title>
     <link>https://pzhaonet.github.io/hes/tags/es431b/</link>
-    <description>Recent content in Es431b on HESLAB</description>
+    <description>Recent content in ES431B on HESLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;HES</copyright>
     
 	<atom:link href="https://pzhaonet.github.io/hes/tags/es431b/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,9 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/111/</guid>
-      <description>&lt;p&gt;离心机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;离心机&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,20 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/104/</guid>
-      <description>&lt;p&gt;电泳仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>LED photolysis device (ID: 106)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/106/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/106/</guid>
-      <description>&lt;p&gt;光解仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;电泳仪&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -50,9 +34,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/108/</guid>
-      <description>&lt;p&gt;样品快速制备仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;样品快速制备仪&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -61,9 +43,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/105/</guid>
-      <description>&lt;p&gt;梯度PCR仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;梯度PCR仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>LED photolysis device (ID: 106)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/106/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/106/</guid>
+      <description>&lt;p&gt;光解仪&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -72,9 +61,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/107/</guid>
-      <description>&lt;p&gt;超低温冰箱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;超低温冰箱&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -83,9 +70,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/109/</guid>
-      <description>&lt;p&gt;混匀器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;混匀器&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -94,9 +79,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/110/</guid>
-      <description>&lt;p&gt;混匀器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;混匀器&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Es432 on HESLAB</title>
+    <title>ES432 on HESLAB</title>
     <link>https://pzhaonet.github.io/hes/tags/es432/</link>
-    <description>Recent content in Es432 on HESLAB</description>
+    <description>Recent content in ES432 on HESLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;HES</copyright>
     
 	<atom:link href="https://pzhaonet.github.io/hes/tags/es432/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,9 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/112/</guid>
-      <description>&lt;p&gt;全球定位系统&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;全球定位系统&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/113/</guid>
-      <description>&lt;p&gt;全球定位系统&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;全球定位系统&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,9 +34,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/114/</guid>
-      <description>&lt;p&gt;全球定位系统&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;全球定位系统&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -50,9 +43,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/115/</guid>
-      <description>&lt;p&gt;数字激光放大器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;数字激光放大器&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -61,9 +52,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/116/</guid>
-      <description>&lt;p&gt;无人机和多光谱相机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;无人机和多光谱相机&lt;/p&gt;</description>
     </item>
     
   </channel>

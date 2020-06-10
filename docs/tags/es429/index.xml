@@ -1,59 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Es429 on HESLAB</title>
+    <title>ES429 on HESLAB</title>
     <link>https://pzhaonet.github.io/hes/tags/es429/</link>
-    <description>Recent content in Es429 on HESLAB</description>
+    <description>Recent content in ES429 on HESLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;HES</copyright>
     
 	<atom:link href="https://pzhaonet.github.io/hes/tags/es429/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Heating plate (ID: 58)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/58/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/58/</guid>
-      <description>&lt;p&gt;加热板2200&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Portable turbidimeter (ID: 55)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/55/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/55/</guid>
-      <description>&lt;p&gt;便携式浊度仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Super constant temperature water tank (ID: 57)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/57/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/57/</guid>
-      <description>&lt;p&gt;超级恒温水槽SYC&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Ultraviolet spectrophotometer (ID: 56)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/56/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/56/</guid>
-      <description>&lt;p&gt;紫外分光光度计L6S&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>bottle washer (ID: 59)</title>
@@ -61,9 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/59/</guid>
-      <description>&lt;p&gt;洗瓶机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;洗瓶机&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -72,9 +25,43 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/60/</guid>
-      <description>&lt;p&gt;洗瓶机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;洗瓶机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Heating plate (ID: 58)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/58/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/58/</guid>
+      <description>&lt;p&gt;加热板2200&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Portable turbidimeter (ID: 55)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/55/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/55/</guid>
+      <description>&lt;p&gt;便携式浊度仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Super constant temperature water tank (ID: 57)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/57/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/57/</guid>
+      <description>&lt;p&gt;超级恒温水槽SYC&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ultraviolet spectrophotometer (ID: 56)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/56/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/56/</guid>
+      <description>&lt;p&gt;紫外分光光度计L6S&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Es436b on HESLAB</title>
+    <title>ES436B on HESLAB</title>
     <link>https://pzhaonet.github.io/hes/tags/es436b/</link>
-    <description>Recent content in Es436b on HESLAB</description>
+    <description>Recent content in ES436B on HESLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;HES</copyright>
     
 	<atom:link href="https://pzhaonet.github.io/hes/tags/es436b/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,9 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/9/</guid>
-      <description>&lt;p&gt;电感耦合等离子体质谱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;电感耦合等离子体质谱&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/10/</guid>
-      <description>&lt;p&gt;离子色谱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;离子色谱&lt;/p&gt;</description>
     </item>
     
   </channel>

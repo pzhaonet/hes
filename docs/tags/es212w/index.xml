@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Es212w on HESLAB</title>
+    <title>ES212W on HESLAB</title>
     <link>https://pzhaonet.github.io/hes/tags/es212w/</link>
-    <description>Recent content in Es212w on HESLAB</description>
+    <description>Recent content in ES212W on HESLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;HES</copyright>
     
 	<atom:link href="https://pzhaonet.github.io/hes/tags/es212w/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,20 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/38/</guid>
-      <description>&lt;p&gt;无油式真空泵&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Oven 53L (ID: 37)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/37/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/37/</guid>
-      <description>&lt;p&gt;烘箱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;无油式真空泵&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,9 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/39/</guid>
-      <description>&lt;p&gt;流量控制器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;流量控制器&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -50,9 +34,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/35/</guid>
-      <description>&lt;p&gt;加热磁力搅拌器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;加热磁力搅拌器&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -61,9 +43,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/36/</guid>
-      <description>&lt;p&gt;加热磁力搅拌器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;加热磁力搅拌器&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Oven 53L (ID: 37)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/37/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/37/</guid>
+      <description>&lt;p&gt;烘箱&lt;/p&gt;</description>
     </item>
     
   </channel>

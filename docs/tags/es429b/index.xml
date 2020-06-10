@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Es429b on HESLAB</title>
+    <title>ES429B on HESLAB</title>
     <link>https://pzhaonet.github.io/hes/tags/es429b/</link>
-    <description>Recent content in Es429b on HESLAB</description>
+    <description>Recent content in ES429B on HESLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;HES</copyright>
     
 	<atom:link href="https://pzhaonet.github.io/hes/tags/es429b/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,9 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/4/</guid>
-      <description>&lt;p&gt;原子吸收光谱仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;原子吸收光谱仪&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,53 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/76/</guid>
-      <description>&lt;p&gt;高效离心机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Particle analyzer (ID: 2)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/2/</guid>
-      <description>&lt;p&gt;颗粒分析仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Particle analyzer (ID: 3)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/3/</guid>
-      <description>&lt;p&gt;粒度分析仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Scanning Electrochemical  Microscope system (ID: 5)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/5/</guid>
-      <description>&lt;p&gt;电化学综合测试仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Water fuel oxyhydrogen machine (ID: 91)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/91/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/91/</guid>
-      <description>&lt;p&gt;水燃料氢氧机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;高效离心机&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -83,9 +34,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/78/</guid>
-      <description>&lt;p&gt;多通道恒电位移&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;多通道恒电位移&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Particle analyzer (ID: 2)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/2/</guid>
+      <description>&lt;p&gt;颗粒分析仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Particle analyzer (ID: 3)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/3/</guid>
+      <description>&lt;p&gt;粒度分析仪&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -94,9 +61,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/77/</guid>
-      <description>&lt;p&gt;旋转蒸发仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;旋转蒸发仪&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -105,9 +70,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/75/</guid>
-      <description>&lt;p&gt;旋转蒸发仪套装RE-2000A&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;旋转蒸发仪套装RE-2000A&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Scanning Electrochemical  Microscope system (ID: 5)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/5/</guid>
+      <description>&lt;p&gt;电化学综合测试仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Water fuel oxyhydrogen machine (ID: 91)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/91/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/91/</guid>
+      <description>&lt;p&gt;水燃料氢氧机&lt;/p&gt;</description>
     </item>
     
   </channel>

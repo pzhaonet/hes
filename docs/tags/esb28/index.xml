@@ -1,26 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Esb28 on HESLAB</title>
+    <title>ESB28 on HESLAB</title>
     <link>https://pzhaonet.github.io/hes/tags/esb28/</link>
-    <description>Recent content in Esb28 on HESLAB</description>
+    <description>Recent content in ESB28 on HESLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;HES</copyright>
     
 	<atom:link href="https://pzhaonet.github.io/hes/tags/esb28/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Ortec Gamma Spectrometer (ID: 19)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/19/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/19/</guid>
-      <description>&lt;p&gt;伽玛谱仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>manifold freezer dryer 8L (ID: 142)</title>
@@ -28,9 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/142/</guid>
-      <description>&lt;p&gt;台式冻干机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;台式冻干机&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,9 +25,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/143/</guid>
-      <description>&lt;p&gt;台式冻干机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;台式冻干机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ortec Gamma Spectrometer (ID: 19)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/19/</guid>
+      <description>&lt;p&gt;伽玛谱仪&lt;/p&gt;</description>
     </item>
     
   </channel>

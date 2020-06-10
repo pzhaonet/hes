@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Es214c on HESLAB</title>
+    <title>ES214C on HESLAB</title>
     <link>https://pzhaonet.github.io/hes/tags/es214c/</link>
-    <description>Recent content in Es214c on HESLAB</description>
+    <description>Recent content in ES214C on HESLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;HES</copyright>
     
 	<atom:link href="https://pzhaonet.github.io/hes/tags/es214c/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,9 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/45/</guid>
-      <description>&lt;p&gt;圆周式震荡摇床&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;圆周式震荡摇床&lt;/p&gt;</description>
     </item>
     
   </channel>

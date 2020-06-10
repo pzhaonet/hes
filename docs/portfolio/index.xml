@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on HESLAB</title>
@@ -6,7 +6,6 @@
     <description>Recent content in Portfolios on HESLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;HES</copyright>
     
 	<atom:link href="https://pzhaonet.github.io/hes/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,9 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/67/</guid>
-      <description>&lt;p&gt;1-10ML瓶口分液器4700341&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;1-10ML瓶口分液器4700341&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,9 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/73/</guid>
-      <description>&lt;p&gt;12通道手动移液器3122000060&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;12通道手动移液器3122000060&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,9 +34,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/68/</guid>
-      <description>&lt;p&gt;5-50ML瓶口分液器4700361&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;5-50ML瓶口分液器4700361&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -50,9 +43,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/72/</guid>
-      <description>&lt;p&gt;8通道手动移液器3122000035&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;8通道手动移液器3122000035&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -61,1142 +52,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/171/</guid>
-      <description>&lt;p&gt;AC控制器5A&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Anemometer (ID: 61)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/61/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/61/</guid>
-      <description>&lt;p&gt;风速仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Anemometer (ID: 71)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/71/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/71/</guid>
-      <description>&lt;p&gt;风速/温度/湿度/结露点指示计/气压计 FIS15-078-196&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Aquafluor Handheld Fluoromete (ID: 26)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/26/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/26/</guid>
-      <description>&lt;p&gt;手持叶绿素荧光仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Atomic Absorption Spectroscopy (ID: 4)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/4/</guid>
-      <description>&lt;p&gt;原子吸收光谱仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>BOD analyzer (ID: 118)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/118/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/118/</guid>
-      <description>&lt;p&gt;BOD 测定仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Benchtop turbidimeter (ID: 64)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/64/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/64/</guid>
-      <description>&lt;p&gt;台式浊度仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Blue light glue cutter (ID: 88)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/88/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/88/</guid>
-      <description>&lt;p&gt;蓝光切胶仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>COD analyzer (ID: 120)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/120/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/120/</guid>
-      <description>&lt;p&gt;COD测定仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Camera (ID: 48)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/48/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/48/</guid>
-      <description>&lt;p&gt;照相机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Canon Camera (ID: 63)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/63/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/63/</guid>
-      <description>&lt;p&gt;佳能相机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Centrifuge (ID: 111)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/111/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/111/</guid>
-      <description>&lt;p&gt;离心机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Centrifuge (ID: 123)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/123/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/123/</guid>
-      <description>&lt;p&gt;台式冷冻离心机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Centrifuge (ID: 145)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/145/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/145/</guid>
-      <description>&lt;p&gt;离心机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Centrifuge (ID: 167)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/167/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/167/</guid>
-      <description>&lt;p&gt;高速冷冻离心机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Centrifuge (ID: 76)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/76/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/76/</guid>
-      <description>&lt;p&gt;高效离心机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Data logger (ID: 149)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/149/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/149/</guid>
-      <description>&lt;p&gt;数据采集器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Dry bath incubator (ID: 90)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/90/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/90/</guid>
-      <description>&lt;p&gt;金属浴&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Dry pump (ID: 27)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/27/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/27/</guid>
-      <description>&lt;p&gt;无油真空泵&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Dry pump (ID: 38)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/38/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/38/</guid>
-      <description>&lt;p&gt;无油式真空泵&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Dry pump (ID: 96)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/96/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/96/</guid>
-      <description>&lt;p&gt;无油式真空泵&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Dust meter (ID: 62)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/62/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/62/</guid>
-      <description>&lt;p&gt;TSI粉尘仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Electric control camera slippery course (ID: 47)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/47/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/47/</guid>
-      <description>&lt;p&gt;可遥控电轨道&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Electric liquid moving trace (ID: 66)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/66/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/66/</guid>
-      <description>&lt;p&gt;电动微量移液器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Electric pipet haustoria (ID: 65)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/65/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/65/</guid>
-      <description>&lt;p&gt;电动移液管助吸器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Electrophoresis (ID: 104)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/104/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/104/</guid>
-      <description>&lt;p&gt;电泳仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Elemental analyzer (ID: 6)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/6/</guid>
-      <description>&lt;p&gt;元素分析仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Flow injection analysis system (ID: 8)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/8/</guid>
-      <description>&lt;p&gt;流动分析仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Flow meter (ID: 164)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/164/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/164/</guid>
-      <description>&lt;p&gt;流量计&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Fluorescence spectroscopy (ID: 12)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/12/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/12/</guid>
-      <description>&lt;p&gt;荧光分光光度计&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>GPS (ID: 112)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/112/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/112/</guid>
-      <description>&lt;p&gt;全球定位系统&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>GPS (ID: 113)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/113/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/113/</guid>
-      <description>&lt;p&gt;全球定位系统&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>GPS (ID: 114)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/114/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/114/</guid>
-      <description>&lt;p&gt;全球定位系统&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Gas Chromatograph (ID: 16)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/16/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/16/</guid>
-      <description>&lt;p&gt;气相色谱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Gas Chromatography-Mass Spectrometer (ID: 14)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/14/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/14/</guid>
-      <description>&lt;p&gt;气相色谱质谱联用&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>GoPro Camera (ID: 51)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/51/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/51/</guid>
-      <description>&lt;p&gt;GoPro相机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Gopro Camera (ID: 50)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/50/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/50/</guid>
-      <description>&lt;p&gt;GoPro 相机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Handheld Energy Dispersive X-Ray Fluorescence (ID: 175)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/175/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/175/</guid>
-      <description>&lt;p&gt;手持式XRF&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Heating plate (ID: 58)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/58/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/58/</guid>
-      <description>&lt;p&gt;加热板2200&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hot wire anemometer (ID: 70)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/70/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/70/</guid>
-      <description>&lt;p&gt;热线风速仪/温度计&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hydrogen generator (ID: 140)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/140/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/140/</guid>
-      <description>&lt;p&gt;氢气发生器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Incubator (17-40°C) (ID: 31)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/31/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/31/</guid>
-      <description>&lt;p&gt;培养箱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Inductively Coupled Plasma Mass Spectrometry (ID: 9)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/9/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/9/</guid>
-      <description>&lt;p&gt;电感耦合等离子体质谱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Ion chromatograph (ID: 10)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/10/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/10/</guid>
-      <description>&lt;p&gt;离子色谱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>LED photolysis device (ID: 106)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/106/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/106/</guid>
-      <description>&lt;p&gt;光解仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Laboratory fluorometer (ID: 32)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/32/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/32/</guid>
-      <description>&lt;p&gt;荧光测定仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Laser Photoelectric sensor (ID: 115)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/115/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/115/</guid>
-      <description>&lt;p&gt;数字激光放大器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Light sensor logger (ID: 174)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/174/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/174/</guid>
-      <description>&lt;p&gt;光照数据采集器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Liquid chromatograph (ID: 15)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/15/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/15/</guid>
-      <description>&lt;p&gt;液相色谱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>MF PRO hand-held terminal (ID: 30)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/30/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/30/</guid>
-      <description>&lt;p&gt;MF PRO 手持终端&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Microplate reader (ID: 11)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/11/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/11/</guid>
-      <description>&lt;p&gt;酶标仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Microtome GSL1 (ID: 87)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/87/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/87/</guid>
-      <description>&lt;p&gt;植物切割机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>MiniGreenhouse (ID: 21)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/21/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/21/</guid>
-      <description>&lt;p&gt;小型温室&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Nitrogen evaporator (ID: 136)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/136/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/136/</guid>
-      <description>&lt;p&gt;氮吹仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Ortec Gamma Spectrometer (ID: 19)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/19/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/19/</guid>
-      <description>&lt;p&gt;伽玛谱仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Oven (50-330°C) (ID: 42)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/42/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/42/</guid>
-      <description>&lt;p&gt;烘箱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Oven (isotherm) (ID: 126)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/126/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/126/</guid>
-      <description>&lt;p&gt;烘箱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Oven 115L (ID: 44)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/44/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/44/</guid>
-      <description>&lt;p&gt;烘箱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Oven 53L (ID: 37)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/37/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/37/</guid>
-      <description>&lt;p&gt;烘箱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PH meter (ID: 79)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/79/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/79/</guid>
-      <description>&lt;p&gt;PH计&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PM2.5 Analyzer (ID: 1)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/1/</guid>
-      <description>&lt;p&gt;空气中PM2.5分析仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Particle analyzer (ID: 2)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/2/</guid>
-      <description>&lt;p&gt;颗粒分析仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Particle analyzer (ID: 3)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/3/</guid>
-      <description>&lt;p&gt;粒度分析仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Peristaltic pump (ID: 150)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/150/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/150/</guid>
-      <description>&lt;p&gt;蠕动泵&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Peristaltic pump (ID: 151)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/151/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/151/</guid>
-      <description>&lt;p&gt;蠕动泵&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Peristaltic pump (ID: 152)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/152/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/152/</guid>
-      <description>&lt;p&gt;蠕动泵&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Peristaltic pump (ID: 153)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/153/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/153/</guid>
-      <description>&lt;p&gt;蠕动泵&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Photometer LI-1500 (ID: 148)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/148/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/148/</guid>
-      <description>&lt;p&gt;光度计LI-1500&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Portable Photosynthesis System (ID: 147)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/147/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/147/</guid>
-      <description>&lt;p&gt;便携式光合作用仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Portable soil moisture meter (ID: 172)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/172/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/172/</guid>
-      <description>&lt;p&gt;便携式土壤水分测定仪HS-2&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Portable turbidimeter (ID: 55)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/55/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/55/</guid>
-      <description>&lt;p&gt;便携式浊度仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Portable water sampler (ID: 159)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/159/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/159/</guid>
-      <description>&lt;p&gt;便携式采样器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>SPE Workstation (ID: 17)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/17/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/17/</guid>
-      <description>&lt;p&gt;固相 萃取自动工作站&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Scanning Electrochemical  Microscope system (ID: 5)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/5/</guid>
-      <description>&lt;p&gt;电化学综合测试仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Sediment sampler (ID: 157)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/157/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/157/</guid>
-      <description>&lt;p&gt;底泥采样器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Sediment sampler (ID: 158)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/158/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/158/</guid>
-      <description>&lt;p&gt;底泥采样器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Sediment/soil sampler (ID: 155)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/155/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/155/</guid>
-      <description>&lt;p&gt;土壤采样器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Sediment/soil sampler (ID: 156)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/156/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/156/</guid>
-      <description>&lt;p&gt;污泥采样器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Sediment/soil sampler (ID: 161)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/161/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/161/</guid>
-      <description>&lt;p&gt;污泥采样器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Sediment/soil sampler (ID: 162)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/162/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/162/</guid>
-      <description>&lt;p&gt;定深采泥器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Shaker (orbital) (ID: 45)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/45/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/45/</guid>
-      <description>&lt;p&gt;圆周式震荡摇床&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Shaker (reciprocating) (ID: 84)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/84/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/84/</guid>
-      <description>&lt;p&gt;往复式摇床&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Shaking water bath (ID: 128)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/128/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/128/</guid>
-      <description>&lt;p&gt;震荡水浴槽&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Sludge sampler (ID: 154)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/154/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/154/</guid>
-      <description>&lt;p&gt;污泥（底泥）采样器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Soil moisture detection probe (ID: 170)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/170/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/170/</guid>
-      <description>&lt;p&gt;土壤水分检测探头CS658&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Soil sampler ETC-300A (ID: 46)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/46/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/46/</guid>
-      <description>&lt;p&gt;土壤采样器 Auger set ETC300A&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Soil sampler set (ID: 163)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/163/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/163/</guid>
-      <description>&lt;p&gt;土壤采样器套装&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Solid-Phase Extraction station (ID: 121)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/121/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/121/</guid>
-      <description>&lt;p&gt;固相萃取装置&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Stereoscopic microscope (ID: 34)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/34/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/34/</guid>
-      <description>&lt;p&gt;立体显微镜&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Super constant temperature water tank (ID: 57)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/57/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/57/</guid>
-      <description>&lt;p&gt;超级恒温水槽SYC&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Switching valve (ID: 92)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/92/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/92/</guid>
-      <description>&lt;p&gt;切换阀&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>TOC/TN analyzer (ID: 7)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/7/</guid>
-      <description>&lt;p&gt;TOC/TN检测器元素分析仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>U3 controller (ID: 24)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/24/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/24/</guid>
-      <description>&lt;p&gt;U3控制器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>USB multifunctional collection device (ID: 20)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/20/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/20/</guid>
-      <description>&lt;p&gt;USB 多功能采集仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>UV-Visible spectroscopy (ID: 13)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/13/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/13/</guid>
-      <description>&lt;p&gt;紫外-可见分光光度计&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Ultrasonic anemometer (ID: 169)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/169/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/169/</guid>
-      <description>&lt;p&gt;测风仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Ultrasonic cleaning machine (ID: 69)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/69/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/69/</guid>
-      <description>&lt;p&gt;超声波清洗机 CPX2800H-C&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Ultraviolet spectrophotometer (ID: 56)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/56/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/56/</guid>
-      <description>&lt;p&gt;紫外分光光度计L6S&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Unmaned aerial vehicle with multi-sensor camera (ID: 116)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/116/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/116/</guid>
-      <description>&lt;p&gt;无人机和多光谱相机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Unmanned aerial vehicle (ID: 49)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/49/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/49/</guid>
-      <description>&lt;p&gt;大疆无人机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Vertical syringe pump (ID: 93)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/93/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/93/</guid>
-      <description>&lt;p&gt;立式注射泵&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Water fuel oxyhydrogen machine (ID: 91)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/91/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/91/</guid>
-      <description>&lt;p&gt;水燃料氢氧机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Wind Meter (ID: 18)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/18/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/18/</guid>
-      <description>&lt;p&gt;三维超声波风速风向仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>YSI multi parameter water quality analyzer (ID: 28)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/28/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/28/</guid>
-      <description>&lt;p&gt;YSI 多参数测试仪（套）&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;AC控制器5A&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1205,9 +61,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/137/</guid>
-      <description>&lt;p&gt;分析天平&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;分析天平&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1216,9 +70,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/139/</guid>
-      <description>&lt;p&gt;分析天平&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;分析天平&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1227,9 +79,34 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/25/</guid>
-      <description>&lt;p&gt;分析天平&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;分析天平&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Anemometer (ID: 61)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/61/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/61/</guid>
+      <description>&lt;p&gt;风速仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Anemometer (ID: 71)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/71/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/71/</guid>
+      <description>&lt;p&gt;风速/温度/湿度/结露点指示计/气压计 FIS15-078-196&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Aquafluor Handheld Fluoromete (ID: 26)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/26/</guid>
+      <description>&lt;p&gt;手持叶绿素荧光仪&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1238,9 +115,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/134/</guid>
-      <description>&lt;p&gt;气氛炉&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;气氛炉&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Atomic Absorption Spectroscopy (ID: 4)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/4/</guid>
+      <description>&lt;p&gt;原子吸收光谱仪&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1249,9 +133,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/97/</guid>
-      <description>&lt;p&gt;高压蒸汽灭菌釜&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;高压蒸汽灭菌釜&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1260,9 +142,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/99/</guid>
-      <description>&lt;p&gt;立式灭菌器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;立式灭菌器&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1271,9 +151,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/94/</guid>
-      <description>&lt;p&gt;天平&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;天平&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1282,9 +160,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/165/</guid>
-      <description>&lt;p&gt;立行式星式球磨机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;立行式星式球磨机&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1293,9 +169,34 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/166/</guid>
-      <description>&lt;p&gt;卧式球磨机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;卧式球磨机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Benchtop turbidimeter (ID: 64)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/64/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/64/</guid>
+      <description>&lt;p&gt;台式浊度仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Blue light glue cutter (ID: 88)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/88/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/88/</guid>
+      <description>&lt;p&gt;蓝光切胶仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BOD analyzer (ID: 118)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/118/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/118/</guid>
+      <description>&lt;p&gt;BOD 测定仪&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1304,9 +205,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/59/</guid>
-      <description>&lt;p&gt;洗瓶机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;洗瓶机&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1315,9 +214,70 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/60/</guid>
-      <description>&lt;p&gt;洗瓶机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;洗瓶机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Camera (ID: 48)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/48/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/48/</guid>
+      <description>&lt;p&gt;照相机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Canon Camera (ID: 63)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/63/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/63/</guid>
+      <description>&lt;p&gt;佳能相机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Centrifuge (ID: 111)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/111/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/111/</guid>
+      <description>&lt;p&gt;离心机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Centrifuge (ID: 123)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/123/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/123/</guid>
+      <description>&lt;p&gt;台式冷冻离心机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Centrifuge (ID: 145)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/145/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/145/</guid>
+      <description>&lt;p&gt;离心机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Centrifuge (ID: 167)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/167/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/167/</guid>
+      <description>&lt;p&gt;高速冷冻离心机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Centrifuge (ID: 76)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/76/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/76/</guid>
+      <description>&lt;p&gt;高效离心机&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1326,9 +286,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/129/</guid>
-      <description>&lt;p&gt;循环水浴锅&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;循环水浴锅&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1337,9 +295,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/103/</guid>
-      <description>&lt;p&gt;垂直流超净工作台&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;垂直流超净工作台&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>COD analyzer (ID: 120)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/120/</guid>
+      <description>&lt;p&gt;COD测定仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data logger (ID: 149)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/149/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/149/</guid>
+      <description>&lt;p&gt;数据采集器&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1348,9 +322,61 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/133/</guid>
-      <description>&lt;p&gt;瓶口分液器Dispensette TA&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;瓶口分液器Dispensette TA&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dry bath incubator (ID: 90)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/90/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/90/</guid>
+      <description>&lt;p&gt;金属浴&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dry pump (ID: 27)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/27/</guid>
+      <description>&lt;p&gt;无油真空泵&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dry pump (ID: 38)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/38/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/38/</guid>
+      <description>&lt;p&gt;无油式真空泵&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dry pump (ID: 96)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/96/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/96/</guid>
+      <description>&lt;p&gt;无油式真空泵&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dust meter (ID: 62)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/62/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/62/</guid>
+      <description>&lt;p&gt;TSI粉尘仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Electric control camera slippery course (ID: 47)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/47/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/47/</guid>
+      <description>&lt;p&gt;可遥控电轨道&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1359,9 +385,43 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/89/</guid>
-      <description>&lt;p&gt;电动平移台&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;电动平移台&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Electric liquid moving trace (ID: 66)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/66/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/66/</guid>
+      <description>&lt;p&gt;电动微量移液器&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Electric pipet haustoria (ID: 65)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/65/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/65/</guid>
+      <description>&lt;p&gt;电动移液管助吸器&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Electrophoresis (ID: 104)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/104/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/104/</guid>
+      <description>&lt;p&gt;电泳仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Elemental analyzer (ID: 6)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/6/</guid>
+      <description>&lt;p&gt;元素分析仪&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1370,9 +430,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/108/</guid>
-      <description>&lt;p&gt;样品快速制备仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;样品快速制备仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flow injection analysis system (ID: 8)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/8/</guid>
+      <description>&lt;p&gt;流动分析仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flow meter (ID: 164)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/164/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/164/</guid>
+      <description>&lt;p&gt;流量计&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1381,9 +457,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/39/</guid>
-      <description>&lt;p&gt;流量控制器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;流量控制器&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fluorescence spectroscopy (ID: 12)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/12/</guid>
+      <description>&lt;p&gt;荧光分光光度计&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1392,9 +475,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/124/</guid>
-      <description>&lt;p&gt;冰箱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;冰箱&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1403,9 +484,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/125/</guid>
-      <description>&lt;p&gt;冰箱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;冰箱&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1414,9 +493,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/144/</guid>
-      <description>&lt;p&gt;车载冰箱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;车载冰箱&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1425,9 +502,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/29/</guid>
-      <description>&lt;p&gt;冰箱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;冰箱&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1436,9 +511,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/40/</guid>
-      <description>&lt;p&gt;冰箱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;冰箱&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1447,9 +520,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/80/</guid>
-      <description>&lt;p&gt;冰箱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;冰箱&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1458,9 +529,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/81/</guid>
-      <description>&lt;p&gt;冰箱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;冰箱&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1469,9 +538,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/86/</guid>
-      <description>&lt;p&gt;冰箱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;冰箱&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1480,9 +547,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/101/</guid>
-      <description>&lt;p&gt;恒温冷冻摇床&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;恒温冷冻摇床&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1491,9 +556,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/98/</guid>
-      <description>&lt;p&gt;小型叠式冷冻摇床&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;小型叠式冷冻摇床&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1502,9 +565,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/43/</guid>
-      <description>&lt;p&gt;马弗炉&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;马弗炉&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1513,9 +574,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/53/</guid>
-      <description>&lt;p&gt;马弗炉&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;马弗炉&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1524,9 +583,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/54/</guid>
-      <description>&lt;p&gt;马弗炉&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;马弗炉&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gas Chromatograph (ID: 16)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/16/</guid>
+      <description>&lt;p&gt;气相色谱&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gas Chromatography-Mass Spectrometer (ID: 14)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/14/</guid>
+      <description>&lt;p&gt;气相色谱质谱联用&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1535,9 +610,52 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/102/</guid>
-      <description>&lt;p&gt;手套箱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;手套箱&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gopro Camera (ID: 50)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/50/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/50/</guid>
+      <description>&lt;p&gt;GoPro 相机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>GoPro Camera (ID: 51)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/51/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/51/</guid>
+      <description>&lt;p&gt;GoPro相机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>GPS (ID: 112)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/112/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/112/</guid>
+      <description>&lt;p&gt;全球定位系统&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>GPS (ID: 113)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/113/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/113/</guid>
+      <description>&lt;p&gt;全球定位系统&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>GPS (ID: 114)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/114/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/114/</guid>
+      <description>&lt;p&gt;全球定位系统&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1546,9 +664,52 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/105/</guid>
-      <description>&lt;p&gt;梯度PCR仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;梯度PCR仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Handheld Energy Dispersive X-Ray Fluorescence (ID: 175)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/175/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/175/</guid>
+      <description>&lt;p&gt;手持式XRF&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Heating plate (ID: 58)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/58/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/58/</guid>
+      <description>&lt;p&gt;加热板2200&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hot wire anemometer (ID: 70)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/70/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/70/</guid>
+      <description>&lt;p&gt;热线风速仪/温度计&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hydrogen generator (ID: 140)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/140/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/140/</guid>
+      <description>&lt;p&gt;氢气发生器&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Incubator (17-40°C) (ID: 31)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/31/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/31/</guid>
+      <description>&lt;p&gt;培养箱&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1557,9 +718,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/100/</guid>
-      <description>&lt;p&gt;电热恒温培养箱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;电热恒温培养箱&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Inductively Coupled Plasma Mass Spectrometry (ID: 9)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/9/</guid>
+      <description>&lt;p&gt;电感耦合等离子体质谱&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1568,9 +736,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/141/</guid>
-      <description>&lt;p&gt;橡皮艇&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;橡皮艇&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ion chromatograph (ID: 10)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/10/</guid>
+      <description>&lt;p&gt;离子色谱&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1579,9 +754,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/160/</guid>
-      <description>&lt;p&gt;筛分仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;筛分仪&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1590,9 +763,52 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/74/</guid>
-      <description>&lt;p&gt;贝迪标签机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;贝迪标签机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Laboratory fluorometer (ID: 32)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/32/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/32/</guid>
+      <description>&lt;p&gt;荧光测定仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Laser Photoelectric sensor (ID: 115)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/115/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/115/</guid>
+      <description>&lt;p&gt;数字激光放大器&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>LED photolysis device (ID: 106)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/106/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/106/</guid>
+      <description>&lt;p&gt;光解仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Light sensor logger (ID: 174)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/174/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/174/</guid>
+      <description>&lt;p&gt;光照数据采集器&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Liquid chromatograph (ID: 15)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/15/</guid>
+      <description>&lt;p&gt;液相色谱&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1601,9 +817,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/35/</guid>
-      <description>&lt;p&gt;加热磁力搅拌器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;加热磁力搅拌器&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1612,9 +826,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/36/</guid>
-      <description>&lt;p&gt;加热磁力搅拌器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;加热磁力搅拌器&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1623,9 +835,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/85/</guid>
-      <description>&lt;p&gt;加热磁力搅拌器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;加热磁力搅拌器&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1634,9 +844,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/142/</guid>
-      <description>&lt;p&gt;台式冻干机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;台式冻干机&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1645,9 +853,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/143/</guid>
-      <description>&lt;p&gt;台式冻干机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;台式冻干机&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1656,9 +862,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/173/</guid>
-      <description>&lt;p&gt;质量流量控制器CS200&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;质量流量控制器CS200&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MF PRO hand-held terminal (ID: 30)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/30/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/30/</guid>
+      <description>&lt;p&gt;MF PRO 手持终端&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1667,9 +880,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/138/</guid>
-      <description>&lt;p&gt;微量天平&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;微量天平&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Microplate reader (ID: 11)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/11/</guid>
+      <description>&lt;p&gt;酶标仪&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1678,9 +898,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/52/</guid>
-      <description>&lt;p&gt;显微镜&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;显微镜&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Microtome GSL1 (ID: 87)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/87/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/87/</guid>
+      <description>&lt;p&gt;植物切割机&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1689,9 +916,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/130/</guid>
-      <description>&lt;p&gt;微波消解仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;微波消解仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MiniGreenhouse (ID: 21)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/21/</guid>
+      <description>&lt;p&gt;小型温室&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1700,9 +934,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/78/</guid>
-      <description>&lt;p&gt;多通道恒电位移&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;多通道恒电位移&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1711,9 +943,34 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/22/</guid>
-      <description>&lt;p&gt;正置研究级生物显微镜&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;正置研究级生物显微镜&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nitrogen evaporator (ID: 136)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/136/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/136/</guid>
+      <description>&lt;p&gt;氮吹仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ortec Gamma Spectrometer (ID: 19)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/19/</guid>
+      <description>&lt;p&gt;伽玛谱仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Oven (50-330°C) (ID: 42)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/42/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/42/</guid>
+      <description>&lt;p&gt;烘箱&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1722,9 +979,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/168/</guid>
-      <description>&lt;p&gt;烘箱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;烘箱&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Oven (isotherm) (ID: 126)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/126/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/126/</guid>
+      <description>&lt;p&gt;烘箱&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Oven 115L (ID: 44)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/44/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/44/</guid>
+      <description>&lt;p&gt;烘箱&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1733,9 +1006,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/83/</guid>
-      <description>&lt;p&gt;烘箱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;烘箱&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Oven 53L (ID: 37)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/37/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/37/</guid>
+      <description>&lt;p&gt;烘箱&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1744,9 +1024,79 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/82/</guid>
-      <description>&lt;p&gt;烘箱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;烘箱&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Particle analyzer (ID: 2)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/2/</guid>
+      <description>&lt;p&gt;颗粒分析仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Particle analyzer (ID: 3)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/3/</guid>
+      <description>&lt;p&gt;粒度分析仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Peristaltic pump (ID: 150)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/150/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/150/</guid>
+      <description>&lt;p&gt;蠕动泵&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Peristaltic pump (ID: 151)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/151/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/151/</guid>
+      <description>&lt;p&gt;蠕动泵&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Peristaltic pump (ID: 152)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/152/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/152/</guid>
+      <description>&lt;p&gt;蠕动泵&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Peristaltic pump (ID: 153)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/153/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/153/</guid>
+      <description>&lt;p&gt;蠕动泵&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PH meter (ID: 79)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/79/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/79/</guid>
+      <description>&lt;p&gt;PH计&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Photometer LI-1500 (ID: 148)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/148/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/148/</guid>
+      <description>&lt;p&gt;光度计LI-1500&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1755,9 +1105,52 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/41/</guid>
-      <description>&lt;p&gt;植物培养箱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;植物培养箱&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PM2.5 Analyzer (ID: 1)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/1/</guid>
+      <description>&lt;p&gt;空气中PM2.5分析仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Portable Photosynthesis System (ID: 147)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/147/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/147/</guid>
+      <description>&lt;p&gt;便携式光合作用仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Portable soil moisture meter (ID: 172)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/172/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/172/</guid>
+      <description>&lt;p&gt;便携式土壤水分测定仪HS-2&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Portable turbidimeter (ID: 55)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/55/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/55/</guid>
+      <description>&lt;p&gt;便携式浊度仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Portable water sampler (ID: 159)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/159/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/159/</guid>
+      <description>&lt;p&gt;便携式采样器&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1766,9 +1159,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/127/</guid>
-      <description>&lt;p&gt;旋转蒸发仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;旋转蒸发仪&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1777,9 +1168,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/77/</guid>
-      <description>&lt;p&gt;旋转蒸发仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;旋转蒸发仪&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1788,9 +1177,70 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/75/</guid>
-      <description>&lt;p&gt;旋转蒸发仪套装RE-2000A&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;旋转蒸发仪套装RE-2000A&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Scanning Electrochemical  Microscope system (ID: 5)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/5/</guid>
+      <description>&lt;p&gt;电化学综合测试仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sediment sampler (ID: 157)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/157/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/157/</guid>
+      <description>&lt;p&gt;底泥采样器&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sediment sampler (ID: 158)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/158/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/158/</guid>
+      <description>&lt;p&gt;底泥采样器&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sediment/soil sampler (ID: 155)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/155/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/155/</guid>
+      <description>&lt;p&gt;土壤采样器&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sediment/soil sampler (ID: 156)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/156/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/156/</guid>
+      <description>&lt;p&gt;污泥采样器&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sediment/soil sampler (ID: 161)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/161/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/161/</guid>
+      <description>&lt;p&gt;污泥采样器&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sediment/soil sampler (ID: 162)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/162/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/162/</guid>
+      <description>&lt;p&gt;定深采泥器&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1799,9 +1249,79 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/132/</guid>
-      <description>&lt;p&gt;回旋振荡器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;回旋振荡器&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shaker (orbital) (ID: 45)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/45/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/45/</guid>
+      <description>&lt;p&gt;圆周式震荡摇床&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shaker (reciprocating) (ID: 84)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/84/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/84/</guid>
+      <description>&lt;p&gt;往复式摇床&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shaking water bath (ID: 128)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/128/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/128/</guid>
+      <description>&lt;p&gt;震荡水浴槽&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sludge sampler (ID: 154)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/154/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/154/</guid>
+      <description>&lt;p&gt;污泥（底泥）采样器&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Soil moisture detection probe (ID: 170)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/170/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/170/</guid>
+      <description>&lt;p&gt;土壤水分检测探头CS658&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Soil sampler ETC-300A (ID: 46)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/46/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/46/</guid>
+      <description>&lt;p&gt;土壤采样器 Auger set ETC300A&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Soil sampler set (ID: 163)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/163/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/163/</guid>
+      <description>&lt;p&gt;土壤采样器套装&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solid-Phase Extraction station (ID: 121)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/121/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/121/</guid>
+      <description>&lt;p&gt;固相萃取装置&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1810,9 +1330,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/119/</guid>
-      <description>&lt;p&gt;超声波清洗机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;超声波清洗机&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1821,9 +1339,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/131/</guid>
-      <description>&lt;p&gt;超声波清洗机&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;超声波清洗机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SPE Workstation (ID: 17)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/17/</guid>
+      <description>&lt;p&gt;固相 萃取自动工作站&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1832,9 +1357,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/23/</guid>
-      <description>&lt;p&gt;体式显微镜&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;体式显微镜&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1843,9 +1366,34 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/33/</guid>
-      <description>&lt;p&gt;立体显微镜&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;立体显微镜&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Stereoscopic microscope (ID: 34)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/34/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/34/</guid>
+      <description>&lt;p&gt;立体显微镜&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Super constant temperature water tank (ID: 57)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/57/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/57/</guid>
+      <description>&lt;p&gt;超级恒温水槽SYC&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Switching valve (ID: 92)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/92/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/92/</guid>
+      <description>&lt;p&gt;切换阀&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1854,9 +1402,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/95/</guid>
-      <description>&lt;p&gt;注射泵&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;注射泵&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TOC/TN analyzer (ID: 7)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/7/</guid>
+      <description>&lt;p&gt;TOC/TN检测器元素分析仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>U3 controller (ID: 24)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/24/</guid>
+      <description>&lt;p&gt;U3控制器&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1865,9 +1429,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/107/</guid>
-      <description>&lt;p&gt;超低温冰箱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;超低温冰箱&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ultrasonic anemometer (ID: 169)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/169/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/169/</guid>
+      <description>&lt;p&gt;测风仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ultrasonic cleaning machine (ID: 69)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/69/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/69/</guid>
+      <description>&lt;p&gt;超声波清洗机 CPX2800H-C&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1876,9 +1456,52 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/122/</guid>
-      <description>&lt;p&gt;超声波破碎仪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;超声波破碎仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ultraviolet spectrophotometer (ID: 56)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/56/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/56/</guid>
+      <description>&lt;p&gt;紫外分光光度计L6S&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Unmaned aerial vehicle with multi-sensor camera (ID: 116)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/116/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/116/</guid>
+      <description>&lt;p&gt;无人机和多光谱相机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Unmanned aerial vehicle (ID: 49)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/49/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/49/</guid>
+      <description>&lt;p&gt;大疆无人机&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>USB multifunctional collection device (ID: 20)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/20/</guid>
+      <description>&lt;p&gt;USB 多功能采集仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>UV-Visible spectroscopy (ID: 13)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/13/</guid>
+      <description>&lt;p&gt;紫外-可见分光光度计&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1887,9 +1510,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/135/</guid>
-      <description>&lt;p&gt;真空干燥箱&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;真空干燥箱&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vertical syringe pump (ID: 93)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/93/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/93/</guid>
+      <description>&lt;p&gt;立式注射泵&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1898,9 +1528,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/146/</guid>
-      <description>&lt;p&gt;振动筛&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;振动筛&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1909,9 +1537,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/109/</guid>
-      <description>&lt;p&gt;混匀器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;混匀器&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1920,9 +1546,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/110/</guid>
-      <description>&lt;p&gt;混匀器&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;混匀器&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Water fuel oxyhydrogen machine (ID: 91)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/91/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/91/</guid>
+      <description>&lt;p&gt;水燃料氢氧机&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1931,9 +1564,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pzhaonet.github.io/hes/portfolio/117/</guid>
-      <description>&lt;p&gt;明澈24UV纯水/超纯水一体化系统&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;明澈24UV纯水/超纯水一体化系统&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wind Meter (ID: 18)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/18/</guid>
+      <description>&lt;p&gt;三维超声波风速风向仪&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>YSI multi parameter water quality analyzer (ID: 28)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/28/</guid>
+      <description>&lt;p&gt;YSI 多参数测试仪（套）&lt;/p&gt;</description>
     </item>
     
   </channel>
