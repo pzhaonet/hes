@@ -36,13 +36,17 @@ publishDir = "docs"
   # Nav links in the side bar
   
   [[params.navlinks]]
+  name = "Gallery"
+  url = "portfolio/"
+
+  [[params.navlinks]]
   name = "Rooms"
   url = "tags/"
   home = true
 
   [[params.navlinks]]
-  name = "Gallery"
-  url = "portfolio/"
+  name = "Categories"
+  url = "categories/"
 
   [[params.navlinks]]
   name = "About"
