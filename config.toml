@@ -14,7 +14,7 @@ publishDir = "docs"
   # Use custom.css for your custom styling
   style = "green"
   description = "Gallery of HES Lab, XJTLU"
-  copyright = "Copyright &copy;HES"
+  copyright = "Copyright &copy;<a href='https://www.xjtlu.edu.cn/en/study/departments/academic-departments/health-and-environmental-sciences/'>HES</a>"
   sidebarAbout = [
     "Lab of the Department of Health and Environmental Sciences, Xi'an Jiaotong-Liverpool University."
   ]
@@ -34,23 +34,23 @@ publishDir = "docs"
 
   # Nav links in the side bar
   
-#  [[params.navlinks]]
-#  name = "Gallery"
-#  url = "portfolio/"
+  [[params.navlinks]]
+  name = "Gallery"
+  url = "portfolio/"
 
   [[params.navlinks]]
-#  name = "Rooms"
+  name = "Rooms"
   url = "tags/"
   home = true
 
-#  [[params.navlinks]]
-#  name = "Categories"
-#  url = "categories/"
+  [[params.navlinks]]
+  name = "Categories"
+  url = "categories/"
 
-#  [[params.navlinks]]
-#  name = "About"
-#  url = "about/"
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
 
-#  [[params.navlinks]]
-#  name = "Contact"
-#  url = "contact/"
+  [[params.navlinks]]
+  name = "Contact"
+  url = "contact/"
