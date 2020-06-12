@@ -9,6 +9,10 @@ googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 publishDir = "docs"
 
+# fix the issue of <!-- raw HTML omitted -->
+[markup.goldmark.renderer]
+  unsafe= true
+
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
