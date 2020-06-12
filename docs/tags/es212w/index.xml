@@ -11,48 +11,39 @@
     
     
     <item>
-      <title>Dry pump (ID: 38)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/38/</link>
+      <title>Dry pump (ID: 41)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/41/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/38/</guid>
+      <guid>https://pzhaonet.github.io/hes/portfolio/41/</guid>
       <description>&lt;p&gt;无油式真空泵&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>flowcontrollers (ID: 39)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/39/</link>
+      <title>mass flow controller (ID: 40)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/40/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/39/</guid>
-      <description>&lt;p&gt;流量控制器&lt;/p&gt;</description>
+      <guid>https://pzhaonet.github.io/hes/portfolio/40/</guid>
+      <description>&lt;p&gt;质量流量控制器CS200&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>magnetic stirrer (ID: 35)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/35/</link>
+      <title>oven 53L (ID: 10)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/35/</guid>
-      <description>&lt;p&gt;加热磁力搅拌器&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>magnetic stirrer (ID: 36)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/36/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/36/</guid>
-      <description>&lt;p&gt;加热磁力搅拌器&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Oven 53L (ID: 37)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/37/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pzhaonet.github.io/hes/portfolio/37/</guid>
+      <guid>https://pzhaonet.github.io/hes/portfolio/10/</guid>
       <description>&lt;p&gt;烘箱&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Soil moisture detection probe (ID: 42)</title>
+      <link>https://pzhaonet.github.io/hes/portfolio/42/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/hes/portfolio/42/</guid>
+      <description>&lt;p&gt;土壤水分检测探头CS658&lt;/p&gt;</description>
     </item>
     
   </channel>
