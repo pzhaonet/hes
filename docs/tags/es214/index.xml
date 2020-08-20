@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ES214 on HESLAB</title>
-    <link>https://pzhaonet.github.io/hes/tags/es214/</link>
+    <link>https://heslab.pzhao.org/tags/es214/</link>
     <description>Recent content in ES214 on HESLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://pzhaonet.github.io/hes/tags/es214/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://heslab.pzhao.org/tags/es214/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>freezer (ID: 43)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/43/</link>
+      <link>https://heslab.pzhao.org/portfolio/43/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/43/</guid>
+      <guid>https://heslab.pzhao.org/portfolio/43/</guid>
       <description>&lt;p&gt;冰箱&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Oven 115L (ID: 11)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/11/</link>
+      <link>https://heslab.pzhao.org/portfolio/11/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/11/</guid>
+      <guid>https://heslab.pzhao.org/portfolio/11/</guid>
       <description>&lt;p&gt;烘箱&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>plant growth incubator (ID: 44)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/44/</link>
+      <link>https://heslab.pzhao.org/portfolio/44/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/44/</guid>
+      <guid>https://heslab.pzhao.org/portfolio/44/</guid>
       <description>&lt;p&gt;植物培养箱&lt;/p&gt;</description>
     </item>
     

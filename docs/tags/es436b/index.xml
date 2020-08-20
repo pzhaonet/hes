@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ES436B on HESLAB</title>
-    <link>https://pzhaonet.github.io/hes/tags/es436b/</link>
+    <link>https://heslab.pzhao.org/tags/es436b/</link>
     <description>Recent content in ES436B on HESLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://pzhaonet.github.io/hes/tags/es436b/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://heslab.pzhao.org/tags/es436b/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Inductively Coupled Plasma Mass Spectrometry (ID: 7)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/7/</link>
+      <link>https://heslab.pzhao.org/portfolio/7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/7/</guid>
+      <guid>https://heslab.pzhao.org/portfolio/7/</guid>
       <description>&lt;p&gt;电感耦合等离子体质谱&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Ion chromatograph (ID: 8)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/8/</link>
+      <link>https://heslab.pzhao.org/portfolio/8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/8/</guid>
+      <guid>https://heslab.pzhao.org/portfolio/8/</guid>
       <description>&lt;p&gt;离子色谱&lt;/p&gt;</description>
     </item>
     

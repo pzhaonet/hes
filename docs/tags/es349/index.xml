@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ES349 on HESLAB</title>
-    <link>https://pzhaonet.github.io/hes/tags/es349/</link>
+    <link>https://heslab.pzhao.org/tags/es349/</link>
     <description>Recent content in ES349 on HESLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://pzhaonet.github.io/hes/tags/es349/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://heslab.pzhao.org/tags/es349/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GoPro Camera (ID: 50)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/50/</link>
+      <link>https://heslab.pzhao.org/portfolio/50/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/50/</guid>
+      <guid>https://heslab.pzhao.org/portfolio/50/</guid>
       <description>&lt;p&gt;GoPro相机&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Gopro Camera (ID: 51)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/51/</link>
+      <link>https://heslab.pzhao.org/portfolio/51/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/51/</guid>
+      <guid>https://heslab.pzhao.org/portfolio/51/</guid>
       <description>&lt;p&gt;GoPro 相机&lt;/p&gt;</description>
     </item>
     

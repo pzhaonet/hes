@@ -1,4 +1,4 @@
-baseurl = "https://pzhaonet.github.io/hes/"
+baseurl = "https://heslab.pzhao.org/"
 title = "HESLAB"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"

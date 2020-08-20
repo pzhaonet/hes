@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ES432 on HESLAB</title>
-    <link>https://pzhaonet.github.io/hes/tags/es432/</link>
+    <link>https://heslab.pzhao.org/tags/es432/</link>
     <description>Recent content in ES432 on HESLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://pzhaonet.github.io/hes/tags/es432/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://heslab.pzhao.org/tags/es432/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GPS (ID: 106)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/106/</link>
+      <link>https://heslab.pzhao.org/portfolio/106/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/106/</guid>
+      <guid>https://heslab.pzhao.org/portfolio/106/</guid>
       <description>&lt;p&gt;全球定位系统&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>GPS (ID: 107)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/107/</link>
+      <link>https://heslab.pzhao.org/portfolio/107/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/107/</guid>
+      <guid>https://heslab.pzhao.org/portfolio/107/</guid>
       <description>&lt;p&gt;全球定位系统&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>GPS (ID: 108)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/108/</link>
+      <link>https://heslab.pzhao.org/portfolio/108/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/108/</guid>
+      <guid>https://heslab.pzhao.org/portfolio/108/</guid>
       <description>&lt;p&gt;全球定位系统&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Laser Photoelectric sensor (ID: 109)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/109/</link>
+      <link>https://heslab.pzhao.org/portfolio/109/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/109/</guid>
+      <guid>https://heslab.pzhao.org/portfolio/109/</guid>
       <description>&lt;p&gt;数字激光放大器&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Unmaned aerial vehicle with multi-sensor camera (ID: 105)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/105/</link>
+      <link>https://heslab.pzhao.org/portfolio/105/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/105/</guid>
+      <guid>https://heslab.pzhao.org/portfolio/105/</guid>
       <description>&lt;p&gt;无人机和多光谱相机&lt;/p&gt;</description>
     </item>
     

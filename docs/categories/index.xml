@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on HESLAB</title>
-    <link>https://pzhaonet.github.io/hes/categories/</link>
+    <link>https://heslab.pzhao.org/categories/</link>
     <description>Recent content in Categories on HESLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://pzhaonet.github.io/hes/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://heslab.pzhao.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Major</title>
-      <link>https://pzhaonet.github.io/hes/categories/major/</link>
+      <link>https://heslab.pzhao.org/categories/major/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/categories/major/</guid>
+      <guid>https://heslab.pzhao.org/categories/major/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regular</title>
-      <link>https://pzhaonet.github.io/hes/categories/regular/</link>
+      <link>https://heslab.pzhao.org/categories/regular/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/categories/regular/</guid>
+      <guid>https://heslab.pzhao.org/categories/regular/</guid>
       <description></description>
     </item>
     

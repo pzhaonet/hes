@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EB roof on HESLAB</title>
-    <link>https://pzhaonet.github.io/hes/tags/eb-roof/</link>
+    <link>https://heslab.pzhao.org/tags/eb-roof/</link>
     <description>Recent content in EB roof on HESLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://pzhaonet.github.io/hes/tags/eb-roof/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://heslab.pzhao.org/tags/eb-roof/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PM2.5 Analyzer (ID: 24)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/24/</link>
+      <link>https://heslab.pzhao.org/portfolio/24/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/24/</guid>
+      <guid>https://heslab.pzhao.org/portfolio/24/</guid>
       <description>&lt;p&gt;空气中PM2.5分析仪&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>USB multifunctional collection device (ID: 23)</title>
-      <link>https://pzhaonet.github.io/hes/portfolio/23/</link>
+      <link>https://heslab.pzhao.org/portfolio/23/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/hes/portfolio/23/</guid>
+      <guid>https://heslab.pzhao.org/portfolio/23/</guid>
       <description>&lt;p&gt;USB 多功能采集仪&lt;/p&gt;</description>
     </item>
     
